@@ -3,7 +3,7 @@
 Nigeria's Premier Fish Farming & Aquaculture Company Website
 
 ## 🌐 Live Demo
-[View Live Website](https://yourusername.github.io/aquaharvest-farms)
+[View Live Website](https://yusful1.github.io/aquaharvest-farm/index.html)
 
 ## 📋 Pages Included
 | Page | File |
@@ -45,7 +45,7 @@ Nigeria's Premier Fish Farming & Aquaculture Company Website
 3. Upload all project files
 4. Go to Settings → Pages
 5. Set source to: `main` branch → `/root`
-6. Your site will be live at: `https://yourusername.github.io/aquaharvest-farms`
+6. Your site will be live at: `https://yusful1.github.io/aquaharvest-farm/index.html`
 
 ## 📁 Folder Structure
 aquaharvest-farms/
